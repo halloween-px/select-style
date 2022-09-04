@@ -1,0 +1,22 @@
+{
+  "name": "select-style",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass index.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halloween-px/select-style.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halloween-px/select-style/issues"
+  },
+  "homepage": "https://github.com/halloween-px/select-style#readme",
+  "dependencies": {
+    "sass": "^1.54.8"
+  }
+}
